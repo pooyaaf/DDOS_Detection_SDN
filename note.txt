@@ -1,0 +1,2 @@
+mn --topo single,18 --mac --switch ovsk --controller remote --ipbase 10.0.0.0/24
+ryu-manager ryu.app.simple_switch_13
